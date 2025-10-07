@@ -7,9 +7,10 @@
 ```sh
 cd (好きなディレクトリのパス)
 ```
-(2) AI講習リポジトリを`git clone`コマンドで自分の環境に落とす。
+(2) AI講習リポジトリを`git clone`コマンドで自分の環境に落として、**リポジトリのフォルダに移動する。**
 ```sh
 git clone git@github.com:ProgrammingLab/prolab-ai-course2025.git
+cd prolab-ai-course2025
 ```
 (3) ブランチを作成する。(コマンドにあるブランチ名は例)  
 ```sh
